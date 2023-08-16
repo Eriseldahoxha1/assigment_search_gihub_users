@@ -4,4 +4,4 @@
 # npm i 
 # npm start
 
-`In order to avoid cross-error, the way of retrieving data from the GitHub API has been done using a personal token from my GitHub account."`
+`In order to avoid cors-error, the way of retrieving data from the GitHub API has been done using a personal token from my GitHub account."`
